@@ -27,7 +27,8 @@ education: ["PUC Minas"]
 ```
 
 <p align="center">
-<a ><img href="https://ashutosh00710.github.io/github-readme-activity-graph/" src="https://activity-graph.herokuapp.com/graph?username=lordvaynard&theme=github-light&hide_border=true"alt="activity graph"/></a>
+<a ><img href="https://ashutosh00710.github.io/github-readme-activity-graph/" src="https://activity-graph.herokuapp.com/graph?username=lordvaynard&theme=github-light&hide_border=true"alt="activity graph"/>
+</a>
 </p>
 
 <p align="center">
