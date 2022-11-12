@@ -32,5 +32,5 @@ education: ["PUC Minas"]
 </p>
 
 <p align="center">
-  <img alig src="https://github.com/lordvaynard/lordvaynard/blob/output/github-contribution-grid-snake.gif"/>
+  <img alig src="https://github.com/lordvaynard/lordvaynard/blob/main/github-contribution-grid-snake.gif"/>
 </p>
